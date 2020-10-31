@@ -1,0 +1,18 @@
+.main__menu {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: cornsilk;
+  height: 80px;
+  padding: 0%;
+  margin: 0%;
+  width: 100%;
+  align-items: center;
+}
+
+.main__menu__link {
+  text-decoration: none;
+  border: 1px solid olive;
+  color: black;
+  font-size: 1.5em;
+}
